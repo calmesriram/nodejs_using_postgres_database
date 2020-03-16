@@ -1,0 +1,4 @@
+ID, Timestamp, Str, Int, Bool,
+1, Hello world, 123, true
+2, Yo what up?, 42, false
+3, Excelsior!, 987, true
